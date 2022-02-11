@@ -6,6 +6,10 @@
 
 Install all packages on your project.
 
+```
+dotnet install
+```
+
 Run project in development mode:
 
 ```
